@@ -1,3 +1,4 @@
+package com.main;
 import org.springframework.boot.*;
 import org.springframework.boot.autoconfigure.*;
 import org.springframework.stereotype.*;
@@ -14,6 +15,6 @@ public class Main {
     }
 
     public static void main(String[] args) throws Exception {
-        SpringApplication.run(SampleController.class, args);
+        SpringApplication.run(Main.class, args);
     }
 }

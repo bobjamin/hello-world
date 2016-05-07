@@ -8,7 +8,7 @@
     <artifactId>hello-world</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <start-class>Main</start-class>
+        <start-class>com.main.Main</start-class>
     </properties>
 
     <parent>
